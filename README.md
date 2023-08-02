@@ -3,6 +3,10 @@
 
 - 🔭 Actualmente estoy trabajando en IMSA **Digitalizando y posicionando la empresa.**
 
+-  Así mismo, también me desempeño como fotografo comercial, habiendo culminado mi carrera en el **Instituto Peruano de Fotografía**
+
+-  Actualmente, estoy en el 3er ciclo de la carrera de Administración de empresas en el reconocido **Insituto ADEX**
+
 - 👨‍💻 Todos mis proyectos puedes verlos en: [https://github.com/YnkETH/GiancarloMoreno](https://github.com/YnkETH/GiancarloMoreno)
 
 - 📝 Yo regularmente comparto información tech en: [https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/](https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/)
