@@ -5,7 +5,7 @@
 
 -  Así mismo, también me desempeño como fotografo comercial, habiendo culminado mi carrera en el **Instituto Peruano de Fotografía**
 
--  Por otro lado, me encuentro estudiando el 3er ciclo de la carrera de Administración de Empresas en el reconocido **Insituto ADEX**
+-  Por otro lado, me encuentro estudiando el 3er ciclo de la carrera de Administración de Empresas en el reconocido **Instituto ADEX**
 
 - 👨‍💻 Todos mis proyectos puedes verlos en: [https://github.com/YnkETH/GiancarloMoreno](https://github.com/YnkETH/GiancarloMoreno)
 
