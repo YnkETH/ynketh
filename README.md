@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Giancarlo Moreno</h1>
-<h3 align="center">Un desarrollador de software apasionado de Lima, Perú</h3>
+<h3 align="center">Desarrollador de software apasionado de Lima, Perú</h3>
 
 - 🔭 Actualmente estoy trabajando en IMSA **Digitalizando y posicionando la empresa.**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos mis proyectos puedes verlos en: [https://github.com/YnkETH/GiancarloMoreno](https://github.com/YnkETH/GiancarloMoreno)
 
-- 📝 Yo regularmente comparto información tech en: [https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/](https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/)
+- 📝 Regularmente comparto información tech en: [https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/](https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/)
 
 - 📫 También puedes escribirme al correo: **yankomoreno1@gmail.com**
 
