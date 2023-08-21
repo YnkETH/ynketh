@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos mis proyectos puedes verlos en: [https://github.com/YnkETH/GiancarloMoreno](https://github.com/YnkETH/GiancarloMoreno)
 
-- 📝 Regularmente comparto información tech en: [https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/](https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/)
+- 📝 Regularmente comparto información tech en: [https://www.linkedin.com/in/jeffrey-moreno-flores-83752023b/](https://www.linkedin.com/in/jeffrey-moreno-flores)
 
 - 📫 También puedes escribirme al correo: **yankomoreno1@gmail.com**
 
